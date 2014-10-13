@@ -1,0 +1,12 @@
+[user]
+	name = Boyuan Yang
+	email = 073plan@gmail.com
+	signingkey = 3B244E51
+[push]
+	default = simple
+[core]
+	autocrlf = input
+	safecrlf = true
+	editor = vim
+	eol = lf
+	pager = vimpager
