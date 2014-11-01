@@ -9,4 +9,9 @@
 	safecrlf = true
 	editor = vim
 	eol = lf
-	pager = vimpager
+	pager = less
+[color]
+	status = auto
+	diff = auto
+	branch = auto
+	interactive = auto
